@@ -14,3 +14,4 @@ youtube link of the demo: https://youtu.be/W6Drf6aNdtI     <br />
 Highlight: GTBay website (similar to ebay) website created by ProgreSQL and java 
 ## Reinforcement Learning project: landing lunar lander rocket with dueling DQN and prioritized experience replay
 youtube link of the demo: https://youtu.be/GqfS-xyuc6w  <br /> 
+The dueling double DQN algorithm with prioritized experience replay has been proved to be successful with converged rewards higher than 200. The optimal value range for hyper parameters have been picked and discussed.
