@@ -12,3 +12,5 @@ Highlight: an app developed by android studio for multi user to play cryptogram 
 ## Database system design and management project: GTBay website
 youtube link of the demo: https://youtu.be/W6Drf6aNdtI  <bt>
 Highlight: GTBay website (similar to ebay) website created by ProgreSQL and java 
+## Reinforcement Learning project: landing lunar lander rocket with dueling DQN and prioritized experience replay
+youtube link of the demo: https://youtu.be/GqfS-xyuc6w <bt>
