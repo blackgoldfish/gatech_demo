@@ -11,7 +11,9 @@ youtube link of the demo: https://youtu.be/hC7GFnZbn1c     <br />
 Highlight: an app developed by android studio for multi user to play cryptogram game (https://en.wikipedia.org/wiki/Cryptogram). 
 ## Database system design and management project: GTBay website
 youtube link of the demo: https://youtu.be/W6Drf6aNdtI     <br /> 
-Highlight: GTBay website (similar to ebay) website created by ProgreSQL and java 
+•	Created the SQL schemas and SQL queries to insert, update, select, delete and sort data.<br/>
+•	Built the user interface and enabled it to communicate with the database by Postgre SQL and Java.<br/>
+•	Successfully set up the GTBay website which allowed users to sell, bid and buy items like Ebay.<br/>
 ## Reinforcement Learning project: landing lunar lander rocket with dueling double DQN and prioritized experience replay
 youtube link of the demo: https://youtu.be/GqfS-xyuc6w  <br /> 
 •	Programmed a space vehicle Lunar Lander to learn to land within a safe zone from a starting point without crashing in OpenAI's gym environment with the Deep Q Networking algorithm in Python. <br/>
