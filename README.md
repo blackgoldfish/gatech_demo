@@ -14,4 +14,6 @@ youtube link of the demo: https://youtu.be/W6Drf6aNdtI     <br />
 Highlight: GTBay website (similar to ebay) website created by ProgreSQL and java 
 ## Reinforcement Learning project: landing lunar lander rocket with dueling double DQN and prioritized experience replay
 youtube link of the demo: https://youtu.be/GqfS-xyuc6w  <br /> 
-The dueling double DQN algorithm with prioritized experience replay has been proved to be successful with converged rewards higher than 200. The optimal value range for hyper parameters have been picked and discussed.
+•	Programmed a space vehicle Lunar Lander to learn to land within a safe zone from a starting point without crashing in OpenAI's gym environment with the Deep Q Networking algorithm in Python. <br/>
+•	By optimizing hyper parameters and improving the algorithm with Prioritized Experience Replay, the converged rewards are consistent within 100 trials and higher than the targeted goal value.
+
