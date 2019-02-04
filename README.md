@@ -9,7 +9,8 @@ youtube link of the demo: https://youtu.be/cbvEByuvdQo     <br />
 Highlight: Big data (10GB) preprocessing by python and storage by SQLite. Interactive visuallization by Tableau. 
 ## Software design and programming project: Cryptogram Game App in Android 
 youtube link of the demo: https://youtu.be/hC7GFnZbn1c     <br /> 
-Highlight: an app developed by android studio for multi user to play cryptogram game (https://en.wikipedia.org/wiki/Cryptogram). 
+•	Developed an app for multi user to play cryptogram game. (https://en.wikipedia.org/wiki/Cryptogram) <br/>
+•	Performed architecture design, generated use case model, programmed through android studio and tested the functionality through test cases.<br/>  
 ## Database system design and management project: GTBay website
 youtube link of the demo: https://youtu.be/W6Drf6aNdtI     <br /> 
 •	Created the SQL schemas and SQL queries to insert, update, select, delete and sort data.<br/>
