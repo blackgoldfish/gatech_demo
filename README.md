@@ -8,17 +8,21 @@ youtube link of the demo: https://youtu.be/P_7IeELltR0   <br />
 ## Data visualization analytics project: Interactive Map Exploration of the Gerrymandering Effects on Districts
 youtube link of the demo: https://youtu.be/cbvEByuvdQo     <br /> 
 •	Big data (10GB) preprocessing by python and storage by SQLite. Interactive visualization by Tableau.
+![Test Image 1](/images/dva.png)
 ## Software design and programming project: Cryptogram Game App in Android 
 youtube link of the demo: https://youtu.be/hC7GFnZbn1c     <br /> 
 •	Developed an app for multi user to play cryptogram game. (https://en.wikipedia.org/wiki/Cryptogram) <br/>
 •	Performed architecture design, generated use case model, programmed through android studio and tested the functionality through test cases.<br/>  
+![Test Image 1](/images/app.png)
 ## Database system design and management project: GTBay website
 youtube link of the demo: https://youtu.be/W6Drf6aNdtI     <br /> 
 •	Created the SQL schemas and SQL queries to insert, update, select, delete and sort data.<br/>
 •	Built the user interface and enabled it to communicate with the database by Postgre SQL and Java.<br/>
 •	Successfully set up the GTBay website which allowed users to sell, bid and buy items like Ebay.<br/>
+![Test Image 1](/images/ebay.png)
 ## Reinforcement Learning project: landing lunar lander rocket with dueling double DQN and prioritized experience replay
 youtube link of the demo: https://youtu.be/GqfS-xyuc6w  <br /> 
 •	Programmed a space vehicle Lunar Lander to learn to land within a safe zone from a starting point without crashing in OpenAI's gym environment with the Deep Q Networking algorithm in Python. <br/>
 •	By optimizing hyper parameters and improving the algorithm with Prioritized Experience Replay, the converged rewards are consistent within 100 trials and higher than the targeted goal value.
+![Test Image 1](/images/dqn.png)
 
