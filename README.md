@@ -4,7 +4,7 @@ This repositories includes the videos for gatech class projects. Due to the requ
 youtube link of the demo: https://youtu.be/P_7IeELltR0   <br /> 
 •	Incorporate the VGG/DenseNet base-model and the additional transitional/pooling/prediction layers to build the DCNN architecture to do multi-label classification and heatmap disease localization within 108,948 ChestXray images by Keras/python on AWS and Azure.<br/>
 •	Achieves AUC up to 0.83. Disease localization gains an accuracy up to 0.6096. <br/>
-![Test Image 1](/images/chestxray.png)
+![Test Image 1](/images/chestxray.PNG)
 ## Data visualization analytics project: Interactive Map Exploration of the Gerrymandering Effects on Districts
 youtube link of the demo: https://youtu.be/cbvEByuvdQo     <br /> 
 •	Big data (10GB) preprocessing by python and storage by SQLite. Interactive visualization by Tableau.
