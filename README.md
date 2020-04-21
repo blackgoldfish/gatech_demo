@@ -1,5 +1,10 @@
 # gatech_demo
 This repositories includes the videos for gatech class projects. Due to the requirement of the school policy, the codes are not open to the public. Please contact me with your email address and I will share the code with you privately.
+## Star Search Simulation
+youtube link of the demo: https://youtu.be/QQ5r3Hg2oi0 <br /> 
+•	Perform Object oriented design in UML with class diagram and sequence diagram. <br/>
+•	Software development in JavaFx. <br/>
+![Test Image 1](/images/starsearch.PNG)
 ## Chest X-ray image analysis with DCNN: disease classification and localization
 youtube link of the demo: https://youtu.be/P_7IeELltR0   <br /> 
 •	Incorporate the VGG/DenseNet base-model and the additional transitional/pooling/prediction layers to build the DCNN architecture to do multi-label classification and heatmap disease localization within 108,948 ChestXray images by Keras/python on AWS and Azure.<br/>
